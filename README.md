@@ -2,7 +2,7 @@
 #### He He He
                                                     ![He He He]
 
-                                                        :V
+                                                        :V ;:"))
 
 Skills: 
 Font-End: VUE JS / REACT / JS / HTML / CSS
