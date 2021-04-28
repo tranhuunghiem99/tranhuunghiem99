@@ -1,6 +1,6 @@
 ### Hi there 👋, Nghiem
 #### He He He
-![He He He](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![He He He][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
 
 :V
 
