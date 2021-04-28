@@ -14,3 +14,4 @@ Skills: +Font-End: VUE JS / REACT / JS / HTML / CSS +Back-End:SpringBoot, Data J
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99)](https://github.com/tranhuunghiem99/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&show_icons=true&theme=radical)
