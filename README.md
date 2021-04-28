@@ -1,8 +1,8 @@
 ### Hi there 👋, Nghiem
 #### He He He
-![He He He][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
+                                                    ![He He He]
 
-:V
+                                                        :V
 
 Skills: 
 Font-End: VUE JS / REACT / JS / HTML / CSS
@@ -10,7 +10,7 @@ Back-End: JavaEE/ SpringFW
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tranhuunghiem99)  
 
