@@ -1,20 +1,3 @@
-<!--### Hi there 👋, Nghiem
-#### He He He
-
-<img src="https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png" width="1920" height="450" alt="Instagram Feed" />
-
-
-
-Skills: 
-Font-End: VUE JS / REACT / JS / HTML / CSS
-Back-End: JavaEE/ SpringFW
--->
-
-
-
-
-
-
 ### Hi there 👋, my name is Nghiem
 #### Hệ hệ Hệ
 ![Hệ hệ Hệ](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png)
@@ -40,4 +23,4 @@ Skills:
 
 ![Profile views](https://gpvc.arturio.dev/tranhuunghiem99)  
 
-![Profile views](https://gpvc.arturio.dev/tranhuunghiem99)  
+
