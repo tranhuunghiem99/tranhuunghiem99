@@ -1,10 +1,6 @@
 ### Hi there 👋, Nghiem
-#### He He He
-                                                    ![He He He]
-                                                    ![Cá](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png)
+#### He He He![Cá](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png)
 
-
-                                                        :V ;:"))
 
 Skills: 
 Font-End: VUE JS / REACT / JS / HTML / CSS
