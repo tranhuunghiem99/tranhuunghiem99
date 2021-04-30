@@ -1,7 +1,7 @@
 ### Hi there 👋, Nghiem
 #### He He He
 
-<img src="https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png" width="1920" height="500" alt="Instagram Feed" />
+<img src="https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png" width="1920" height="200" alt="Instagram Feed" />
 Skills: 
 Font-End: VUE JS / REACT / JS / HTML / CSS
 Back-End: JavaEE/ SpringFW
