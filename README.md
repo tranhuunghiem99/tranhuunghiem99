@@ -1,11 +1,14 @@
 ### Hi there 👋, my name is Nghiem
 #### Hệ hệ Hệ
-![Hệ hệ Hệ](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png)
+![dr tran huu nghiem](https://user-images.githubusercontent.com/72342095/121803362-5dab3380-cc6b-11eb-9cd0-f5fbfa907754.gif)
+
+<!-- ![Hệ hệ Hệ](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png) -->
 
 
 Skills: 
-- Font-End: VUE JS / REACT / JS / HTML / CSS
-- Back-End: JavaEE/ SpringFW
+- Font-End: VUE JS / REACT JS / JS / HTML / CSS
+- Back-End: JavaEE/ SpringFW /NodeJS.
+- Database: SQL Server / MySQL/ PostgreSQL.
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Tien Giang University 
 - 🤔 I’m looking for help with Web Service 
