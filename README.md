@@ -18,6 +18,7 @@ Skills:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tranhuunghiem99)  
+![](https://komarev.com/ghpvc/?username=tranhuunghiem99&color=green)
 
 ![GitHub metrics](https://metrics.lecoq.io/tranhuunghiem99)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
