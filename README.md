@@ -7,13 +7,20 @@
 
 Skills: 
 - Font-End: VUE JS / REACT JS / JS / HTML / CSS
-- Back-End: JavaEE/ SpringFW /NodeJS.
-- Database: SQL Server / MySQL/ PostgreSQL.
+- Back-End: JSP/ SpringFW /NodeJS.
+- NoCode/LowCode: OutSystems.
+- UX/UI Desigin: Figma/AdobeXD/Adobe Photoshop.
+- Database: 
+    + SQL: SQL Server / MySQL/ PostgreSQL.
+    + NoSQL:MongoDB.
+- Operating System: 
+    + Linux Mint / Ubuntu.
+    + Windows
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Tien Giang University 
 - 🤔 I’m looking for help with Web Service 
 - 💬 Ask me about REACT/VUE/JPA/JDBC/MYSQL 
-- 📫 How to reach me: My email: tranhuunghiem48@gmail.com 
+- 📫 How to reach me: My email: tranhuunghiem48@gmail.com or nghiem017101004@tgu.edu.vn
 - 😄 Pronouns: HỆ HỆ HỆ ;:")) 
 
 
