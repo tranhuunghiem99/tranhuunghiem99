@@ -6,7 +6,7 @@
 
 
 Skills: 
-- Font-End: VUE JS / REACT JS / JS / HTML / CSS
+- Font-End: VUE JS / REACT JS / JS / HTML / CSS/ SASS
 - Back-End: JSP/ SpringFW /NodeJS.
 - NoCode/LowCode: OutSystems.
 - UX/UI Desigin: Figma/AdobeXD/Adobe Photoshop.
