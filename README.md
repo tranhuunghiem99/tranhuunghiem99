@@ -14,8 +14,9 @@ Skills:
     + SQL: SQL Server / MySQL/ PostgreSQL.
     + NoSQL:MongoDB.
 - Operating System: 
-    + Linux Mint / Ubuntu.
-    + Windows
+    + Linux Mint / Ubuntu /ZorinOS.
+    + Windows.
+    + FydeOS / ChromeOS.
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Tien Giang University 
 - 🤔 I’m looking for help with Web Service 
