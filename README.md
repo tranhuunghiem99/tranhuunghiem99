@@ -3,8 +3,10 @@
 ![dr tran huu nghiem](https://user-images.githubusercontent.com/72342095/121803362-5dab3380-cc6b-11eb-9cd0-f5fbfa907754.gif)
 
 <!-- ![Hệ hệ Hệ](https://user-images.githubusercontent.com/72342095/116647597-1d3a7380-a9a5-11eb-9088-0a77f3e7f44c.png) -->
+<img src="https://raw.githubusercontent.com/tranhuunghiem99/tranhuunghiem99/output/snake.svg" alt="Snake animation" />
 
-
+###
+<!--
 Skills: 
 - Front-End: VUE JS / REACT JS / JS / HTML / CSS/ SASS
 - Back-End: JSP/ SpringFW /NodeJS.
@@ -16,7 +18,7 @@ Skills:
 - Operating System: 
     + Linux Mint / Ubuntu /ZorinOS.
     + Windows.
-    + FydeOS / ChromeOS.
+    + FydeOS / ChromeOS.-->
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Tien Giang University 
 - 🤔 I’m looking for help with Web Service 
@@ -24,7 +26,7 @@ Skills:
 - 📫 How to reach me: My email: tranhuunghiem48@gmail.com or nghiem017101004@tgu.edu.vn
 - 😄 Pronouns: HÊ, HÊ HÊ ;:")) 
 
-
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tranhuunghiem99)  
 ![](https://komarev.com/ghpvc/?username=tranhuunghiem99&color=green)
 
@@ -36,7 +38,7 @@ Skills:
  <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:tranhuunghie48@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
+-->
 <br />
 
 ## 🧰 Languages and Tools:
@@ -141,11 +143,16 @@ Skills:
     
 </p>    
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhuunghiem99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
+###
+<!--!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
-<!--![GitHub metrics](https://metrics.lecoq.io/tranhuunghiem99)  
+[GitHub metrics](https://metrics.lecoq.io/tranhuunghiem99)  
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=tranhuunghiem99&show_icons=true&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuunghiem99&layout=compact)](https://github.com/tranhuunghiem99/github-readme-stats)
 
